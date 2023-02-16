@@ -13,7 +13,7 @@ const menu = [
     category: "dance",
     price: 3000,
     img: "./images/item-2.jpeg",
-    desc: `Persian, Egyptian, Turkish and Tribal Fusion dance trope that inspire and entertain with their art.  `,
+    desc: `Persian, Egyptian, Turkish and Tribal Fusion dance trope that will inspire and entertain with their art.  `,
   },
   {
     id: 3,
