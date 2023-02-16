@@ -68,6 +68,8 @@ Global Styles
   box-sizing: border-box;
   color: #808080
 }
+
+
 body {
   font-family: var(--ff-secondary);
   background: #FAF9F6;
@@ -264,3 +266,14 @@ Menu
     height: 150px;
   }
 }
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #6E0A1E;
+  color: white;
+  
+  }
+  a:hover {
+    color: #FAF9F6;
+  }
+  
